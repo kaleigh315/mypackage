@@ -5,8 +5,7 @@ setup(
     url='https://github.com/kaleigh315/mypackage',
     author='Kaleigh OHara',
     author_email='ear3cg@virginia.edu',
-    description='Description of my package',
-    license='MIT'
-    packages=['M09'],    
+    description='Description of my package'
+    packages=['mypackagedir'],    
     install_requires=['numpy >= 1.11.1', 'matplotlib >= 1.5.1'],
 )
